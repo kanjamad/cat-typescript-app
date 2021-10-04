@@ -1,5 +1,6 @@
 # React + TypeScript project
 ![screenshot](screenshot.png "screenshot")
+Adding TypeScript to my cat friends app!  https://github.com/kanjamad/cat-friends-react.js-app
 
 ## Tech Stack
 ---
