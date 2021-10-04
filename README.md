@@ -1,5 +1,4 @@
 # React + TypeScript project
-It's a responsive app that displays robofriends. Users can search by name.
 ## Tech Stack
 ---
 - HTML
