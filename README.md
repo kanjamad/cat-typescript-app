@@ -1,16 +1,19 @@
 # React + TypeScript project
+![screenshot](screenshot.png "screenshot")
+
 ## Tech Stack
 ---
-- HTML
-- CSS
+- TypeScript
 - Javascript
 - React.js
-- TypeScript
+- HTML
+- CSS
 - ESlint
 - Prettier
 
 
-
+## Adding TypeScript
+- https://create-react-app.dev/docs/adding-typescript/
 ## External API used
 ---
 - https://jsonplaceholder.typicode.com/users

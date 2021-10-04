@@ -1,10 +1,11 @@
 import * as React from 'react';
 import Card from './Card';
 import { IRobot } from '../containers/App'
+import './CardList.css';
 
 const CardList = ({ robots }: {robots: Array<IRobot>}) => {
   return (
-    <div>
+    <div className="card-list">
       {
         robots.map((user, i) => {
           return (
