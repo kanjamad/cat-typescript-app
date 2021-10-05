@@ -14,7 +14,27 @@ Adding TypeScript to my cat friends app!  https://github.com/kanjamad/cat-friend
 
 
 ## Adding TypeScript
-- https://create-react-app.dev/docs/adding-typescript/
+To start a new Create React App project with TypeScript, you can run:
+```
+npx create-react-app my-app --template typescript
+
+# or
+
+yarn create react-app my-app --template typescript
+
+```
+
+To add TypeScript to an existing Create React App project, first install it:
+```
+npm install --save typescript @types/node @types/react @types/react-dom @types/jest
+
+# or
+
+yarn add typescript @types/node @types/react @types/react-dom @types/jest
+```
+
+Next, rename any file to be a TypeScript file (e.g. src/index.js to src/index.tsx) and restart your development server!
+> https://create-react-app.dev/docs/adding-typescript/
 ## External API used
 ---
 - https://jsonplaceholder.typicode.com/users
